@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "1026765563336",
+    "project_id": "notez-a15de",
+    "storage_bucket": "notez-a15de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026765563336:android:0327d36a9fbaf25c91ccfd",
+        "android_client_info": {
+          "package_name": "com.sdstudios.notez"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026765563336-erl91gm647c2irv3rqe537o676pprkh4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sdstudios.notez",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "1026765563336-2l8qcck3oo3hvs0cjecpjdmlku60sk6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtwdIKymUWZMik0PuDEfnJZ0Q3hhtGdH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026765563336-2l8qcck3oo3hvs0cjecpjdmlku60sk6u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1026765563336-kghtdh48d5ngdmf1vndl471k1nieou0b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sdstudios.notez"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026765563336:android:20ff6ab558f1a96991ccfd",
+        "android_client_info": {
+          "package_name": "com.sdstudios.notez.notez_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026765563336-2l8qcck3oo3hvs0cjecpjdmlku60sk6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtwdIKymUWZMik0PuDEfnJZ0Q3hhtGdH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026765563336-2l8qcck3oo3hvs0cjecpjdmlku60sk6u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1026765563336-kghtdh48d5ngdmf1vndl471k1nieou0b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sdstudios.notez"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
